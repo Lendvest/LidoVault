@@ -1,0 +1,10 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+@chainlink/contracts/=lib/chainlink/contracts/
+@aerodrome/=lib/contracts/
+forge-std/=lib/forge-std/src/
+@solmate/=lib/solmate/src/
+@uniswap/=lib/uniswap-core/contracts/
+@uniswap/v2-core/=lib/uniswap-v2-core/contracts/
+@uniswap/v2-periphery/=lib/uniswap-v2-periphery/contracts/
+@balancer/=lib/balancer-v2-monorepo/pkg/interfaces/contracts/
+@prb/math/=lib/prb-math/src/

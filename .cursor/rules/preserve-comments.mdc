@@ -1,0 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+- Never remove code comments, unless specified, when suggesting new code.
+
+- When analyzing or generating code, never invent functions, return values, or behaviors — only reference what actually exists in the attached codebase (including following imports). Always proof‑check every function call and ensure all logical branches (e.g., error conditions, edge cases, time‑outs) are explicitly handled. Add clear inline comments explaining each branch’s purpose and any assumptions made.

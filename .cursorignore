@@ -1,0 +1,5 @@
+venv/
+certora_env/
+# Environment variables
+.env
+.env.local
