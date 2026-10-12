@@ -92,3 +92,7 @@ The vault operates in epochs, with Chainlink playing a critical role at each sta
 - testIdealScenario
 - testBorrowerLoss
 - testCollateralLenderLoss
+
+## License
+
+MIT, Copyright (c) 2025 KLV1, Inc. See LICENSE. Third-party code is listed in NOTICE.

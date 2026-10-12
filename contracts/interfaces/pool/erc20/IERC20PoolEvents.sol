@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: BUSL-1.1
-// Author: Lendvest
+// SPDX-License-Identifier: MIT
+// Source: Ajna Finance, ajna-core (https://github.com/ajna-finance/ajna-core), MIT License.
 
 pragma solidity 0.8.20;
 

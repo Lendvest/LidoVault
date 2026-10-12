@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: BUSL-1.1
-// Author: Lendvest
+// Interface to Ajna Finance PoolInfoUtils (https://github.com/ajna-finance/ajna-core), licensed by Ajna under the
+// Business Source License 1.1. Not covered by this repository's MIT license.
 
 pragma solidity ^0.8.20;
 

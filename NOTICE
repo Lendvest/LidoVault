@@ -1,0 +1,5 @@
+Third-party code keeps its own license:
+
+- contracts/interfaces/pool/: Ajna Finance (ajna-core), MIT.
+- contracts/interfaces/IPoolInfoUtils.sol: interface to Ajna Finance PoolInfoUtils, Business Source License 1.1.
+- lib/: each library under its own license.
